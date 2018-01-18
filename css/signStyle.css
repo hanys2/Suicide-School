@@ -1,0 +1,37 @@
+#title {
+    text-align: center;
+    font-size: 40px;
+    margin: 5%;
+}
+
+.formBtn{
+    width: 300px;
+    height : 35px;
+    border-radius: 7px;
+    margin-left: auto;
+    margin-right : auto;
+    margin-bottom: 4px;
+    display: block;
+}
+
+.passwdBtn {
+    border : 1px solid lightgrey;
+}
+
+.checkBtn:hover {
+    background-color: #5EE25E;
+}
+
+.checkBtn{
+    border: none;
+    font-size: 16px;
+}
+
+.passwdBtn::-webkit-input-placeholder{
+    padding-left: 12px;
+    font-size: 16px;
+}
+
+#section {
+
+}
